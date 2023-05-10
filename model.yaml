@@ -1,0 +1,10 @@
+user_provided_model_id: model-unique-id-1
+target_type: Regression
+settings:
+  name: My Awesome GitHub Model 1 [GitHub CI/CD]
+  target_name: Grade 2014
+
+version:
+  # Make sure this is the environment ID is in your system.
+  # This one is the '[DataRobot] Python 3 Scikit-Learn Drop-In' environment
+  model_environment_id: 643f67a572ec9c4167de22c7
