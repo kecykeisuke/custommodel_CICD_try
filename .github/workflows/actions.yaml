@@ -28,6 +28,6 @@ jobs:
         with:
           api-token: ${{ secrets.DATAROBOT_API_TOKEN }}
           webserver: https://app.datarobot.com/
-          branch: master
+          branch: main
           allow-model-deletion: true
           allow-deployment-deletion: true
