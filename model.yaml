@@ -1,8 +1,8 @@
-user_provided_model_id: kamata/lgbm_02
+user_provided_model_id: kamata/lgbm_03
 target_type: Regression
 settings:
   name: ligthgbm_CICD
-  description: ligthgbm_CICD v2
+  description: ligthgbm_CICD
   target_name: Grade 2014
   language: Python
   training_dataset_id: 645dd78ee8b9d3f0d34dfed0
