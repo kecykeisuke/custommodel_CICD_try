@@ -1,4 +1,4 @@
-user_provided_model_id: kamata/lgbm_01
+user_provided_model_id: kamata/lgbm_02
 target_type: Regression
 settings:
   name: ligthgbm_CICD
