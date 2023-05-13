@@ -1,5 +1,5 @@
 user_provided_model_id: kamata/lgbm_01
-target_type: Binary
+target_type: Regression
 settings:
   name: ligthgbm_CICD
   description: ligthgbm_CICD
